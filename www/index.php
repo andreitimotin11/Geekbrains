@@ -12,3 +12,5 @@ V
 C
 */
 require_once "model/model.php";
+
+getAllNews();
